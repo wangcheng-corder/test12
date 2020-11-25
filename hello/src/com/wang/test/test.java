@@ -8,6 +8,6 @@ public class test {
         System.out.println("hello");
     }
     public  void sum(){
-
+        System.out.println("123");
     }
 }
